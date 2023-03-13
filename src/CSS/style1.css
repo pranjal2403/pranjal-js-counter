@@ -1,0 +1,36 @@
+/* body section */
+body {
+    position: absolute;
+    left: 0%;
+    text-align: left;
+}
+
+/* header section */
+.container__counter {
+    justify-content: left;
+    align-items: center;
+    display: flex;
+    height: 100%;
+    text-align: center;
+}
+
+.counter__h2{
+    border: rgb(245, 245, 245) 2px solid;
+    padding: 20px 25px 20px 25px;
+    text-align: center;
+    margin-top: 35px;
+    margin-bottom: 38px;
+    background-color: #fff;
+
+}
+
+button {
+    width: 73px;
+    height: 73px;
+    font-size: 30px;
+    background-color: #eee;
+    color:black;
+    border-radius: 15%;
+    border: none;
+    border-left-left-radius: 0px 0px;
+}
